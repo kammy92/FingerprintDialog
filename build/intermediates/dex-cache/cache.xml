@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36af113ffcae85acb8c9f94c459ff3f8a6b7b6cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d243a176588e85688b2538e3b27df5afdd21f3c">
+        <dex dex="/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_673fe69d7b22346103ced8c403a2d86ab57c7051/classes.dex" />
+    </item>
+
+</items>

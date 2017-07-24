@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/layout-v21/notification_action.xml"
+    }
+]

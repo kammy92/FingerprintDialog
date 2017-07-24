@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kammy/karman/android/studio-projects/FingerprintDialog-original/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kammy/.android/build-cache/f07a1fba6704a12a80d1ed422ddf41b8bb5b8dfa/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]
